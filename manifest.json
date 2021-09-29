@@ -1,11 +1,11 @@
 {
-    "name": "Kahoot Haxs",
-    "version": "2.0",
+    "name": "Kahoot Keyboard",
+    "version": "0.1",
     "manifest_version": 3,
     "content_scripts": [
         {
             "matches": ["*://kahoot.it/*"],
-            "js": ["hack.js"]
+            "js": ["keyboard.js"]
         }
     ]
 }
