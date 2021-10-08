@@ -4,11 +4,12 @@ Simple keyboard shortcuts to make winning Kahoots easier ;))))))
 
 ## Installation
 
-1. Download `Kahoot_Keyboard.crx`
-2. Go to chrome://extensions
-3. Enable Developer Mode in the top right corner
-4. Click Load Unpacked
-5. Select `Kahoot_Keyboard.crx`
+1. Download [this repo as a zip file](https://github.com/ethansocal/Kahoot-Keyboard/archive/refs/heads/master.zip)
+2. Unpack the zip file
+3. Go to chrome://extensions
+4. Enable Developer Mode in the top right corner
+5. Click Load Unpacked
+6. Select the folder you unpacked this repo to
 
 ## Usage
 
