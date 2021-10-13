@@ -1,0 +1,21 @@
+{
+    "name": "Helpers",
+    "version": "0.2",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["*://kahoot.it/*"],
+            "js": ["kahoot/keyboard.js"]
+        },
+        {
+            "matches": ["*://*.setgame.com/set/puzzle"],
+            "js": ["setgame/setgame.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["setgame/script.js"],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}
