@@ -1,10 +1,10 @@
-# Kahoot Keyboard
+# Chrome Helper
 
 Simple keyboard shortcuts to make winning Kahoots easier ;))))))
 
 ## Installation
 
-1. Download [this repo as a zip file](https://github.com/ethansocal/Kahoot-Keyboard/archive/refs/heads/master.zip)
+1. Download [this repo as a zip file](https://github.com/ethansocal/Chrome-Helper/archive/refs/heads/master.zip)
 2. Unpack the zip file
 3. Go to chrome://extensions
 4. Enable Developer Mode in the top right corner
